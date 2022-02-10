@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string-array name="operator">
+<item>"China Mobile=Bilbila Chaayinaa"</item>
+<item>"China Unicom= Unicom Chaayinaa"</item>
+<item>"CHN-UNICOM= Unicom Chaayinaa"</item>
+<item>"UNICOM= Unicom Chaayinaa"</item>
+<item>"CMCC=bilbila Chaayinaa"</item>
+<item>"CUCC= Unicom Chaayinaa"</item>
+<item>"Rukuttaa FarEas= Rukuttaa FarEas"</item>
+<item>"Bilbila  Taiwan =Bilbila Taiwan"</item>
+<item>"中国电信=Telekoomii Chaayinaa"</item>
+<item>"Mobayilii Mi=Mobaayilii Mi"</item>
+</string-array>
+<string-array name="spn">
+<item>"China Mobile=Bilbila Chaayinaa"</item>
+<item>"CMCC=bilbila Chaayinaa"</item>
+<item>"UNICOM= Unicom Chaayinaa"</item>
+<item>"CUCC= Unicom Chaayinaa"</item>
+<item>"中国电信=Telekoomii Chaayinaa"</item>
+<item>"小米移动=Mi Mobaayilii"</item>
+</string-array>
+</resources>

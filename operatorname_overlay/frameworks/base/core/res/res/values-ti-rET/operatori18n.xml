@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string-array name="operator">
+<item>"ቻይና ሞባይል=ቻይና ሞባይል"</item>
+<item>"ቻይናUnicom=ቻይና Unicom"</item>
+<item>"CHN-UNICOM=ቻይና Unicom"</item>
+<item>"UNICOM=ቻይና Unicom"</item>
+<item>"CMCC=ቻይና ሞባይል"</item>
+<item>"CUCC=ቻይና Unicom"</item>
+<item>"ፋርኢስት ቶን=ፋርኢስት ቶን"</item>
+<item>"ታይዋን ሞባይል = ታይዋን ሞባይል"</item>
+<item>"中国电信=ቻይና ቴሌኮም"</item>
+<item>"ኤም.ኣይ. ሞባይል=ኤም.ኣይ. ሞባይል"</item>
+</string-array>
+<string-array name="spn">
+<item>"ቻይና ሞባይል=ቻይና ሞባይል"</item>
+<item>"CMCC=ቻይና ሞባይል"</item>
+<item>"UNICOM=ቻይና Unicom"</item>
+<item>"CUCC=ቻይና Unicom"</item>
+<item>"中国电信=ቻይና ቴሌኮም"</item>
+<item>"小米移动=ኤም.ኣይ. ሞባይል"</item>
+</string-array>
+</resources>

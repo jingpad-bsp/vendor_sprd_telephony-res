@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string-array name="operator">
+<item>"China Mobile=ຊາຍນາໂມບາຍ"</item>
+<item>"China Unicom=ຊາຍນາຢູນີຄອມ"</item>
+<item>"CHN-UNICOM=ຊາຍນາຢູນີຄອມ"</item>
+<item>"UNICOM=ຊາຍນາຢູນີຄອມ"</item>
+<item>"CMCC=ຊາຍນາໂມບາຍ"</item>
+<item>"CUCC=ຊາຍນາຢູນີຄອມ"</item>
+<item>"FarEasTone=ຟາເອດສະໂທນ"</item>
+<item>"Taiwan Mobile=ໃຕ້ຫັວນໂມບາຍ"</item>
+<item>"中国电信=ໄຊນ່າໂທລະຄົມ"</item>
+<item>"Mi Mobile=ມີໂມມາຍ "</item>
+</string-array>
+<string-array name="spn">
+<item>"China Mobile=ຊາຍນາໂມບາຍ"</item>
+<item>"CMCC=ຊາຍນາໂມບາຍ"</item>
+<item>"UNICOM=ຊາຍນາຢູນີຄອມ"</item>
+<item>"CUCC=ຊາຍນາຢູນີຄອມ"</item>
+<item>"中国电信=ໄຊນ່າໂທລະຄົມ"</item>
+<item>"小米移动=ມີໂມມາຍ "</item>
+</string-array>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- UNISOC:  Add for Bug1641326 Set system locale according to SIM language.-->
+<localeByIccIssueId>
+    <localeByIccIssueId iccid="8934" language="es" country="ES"/>
+    <localeByIccIssueId iccid="8986" language="zh" country="CN"/>
+    <localeByIccIssueId iccid="8948" language="pl" country="PL"/>
+    <localeByIccIssueId iccid="8949" language="de" country="DE"/>
+    <localeByIccIssueId iccid="8952" language="es" country="US"/>
+    <localeByIccIssueId iccid="8951" language="es" country="US"/>
+</localeByIccIssueId>

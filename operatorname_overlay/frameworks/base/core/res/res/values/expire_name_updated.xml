@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <add-resource name="expire_name_updated" type="array" />
+    <string-array name="expire_name_updated">
+        <item>50212=Maxis</item>
+        <item>6191=Orange</item>
+        <item>20610=Orange B</item>
+        <item>40420=Vodafone IN</item>
+        <item>5153=Smart</item>
+    </string-array>
+    <!-- UNISOC: For customized operator name. Format:sim_mccmnc-network_mccmnc=name-->
+    <add-resource name="customized_operator_name" type="array" />
+    <string-array name="customized_operator_name">
+        <item>4665-46697=GT 4G R</item>
+    </string-array>
+</resources>
